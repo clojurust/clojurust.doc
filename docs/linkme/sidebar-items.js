@@ -1,0 +1,1 @@
+initSidebarItems({"attr":[["distributed_slice",""]],"struct":[["DistributedSlice","Collection of static elements that are gathered into a contiguous section of the binary by the linker."]]});
