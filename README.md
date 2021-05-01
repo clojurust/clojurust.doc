@@ -1,4 +1,4 @@
 # clojurust.doc
 Documentation of ClojuRust
 
-[Documentation ClojuRust](Clojurust Core)
+[Documentation ClojuRust](https://clojurust.github.io/clojurust.doc/clojurust)
