@@ -4,17 +4,3 @@
 
 ## Other documentation
 tbd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
